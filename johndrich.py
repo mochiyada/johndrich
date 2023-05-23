@@ -709,7 +709,7 @@ if selected=="The Team":
 
       <div class="column">
         <div class="card">
-          <img src="https://scontent.fmnl3-1.fna.fbcdn.net/v/t39.30808-6/333692994_159877390237948_3278638485997279866_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFTE9LhtdGSvCoHjZr4yysGeHj74UcZ8vZ4ePvhRxny9tfhTNMertsQKxCVteb1mXia7mJ9F76m2V6sGavH7ZQn&_nc_ohc=kE7wa0cooQ0AX_GnSPA&_nc_ht=scontent.fmnl3-1.fna&oh=00_AfCKy_dUv_141bm5yj8H2yW8TQc7RcLOr-apODyLXDRtiw&oe=6462603D" alt="John" style="width:100%">
+          <img src="https://scontent.fmnl9-1.fna.fbcdn.net/v/t39.30808-6/333692994_159877390237948_3278638485997279866_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_eui2=AeF0Eb6O5ZAyMtpnG0ea5QcEeHj74UcZ8vZ4ePvhRxny9jVdnj-6cm81rbJ-qECe27GbI6_GgLx5x0QrtHxJDM97&_nc_ohc=K-7_SeZaLx4AX_XsWpW&_nc_ht=scontent.fmnl9-1.fna&oh=00_AfDY82JqbmGbm-4PevPIcmXpGUI2oz_1Es-hwOPd_lfPHQ&oe=6472323D" alt="John" style="width:100%">
           <div class="container">
             <h4 class="nameBondal">Rheayln "LeBron" Narsico</h4>
             <p class="title">IT</p>
