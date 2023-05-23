@@ -1,0 +1,2 @@
+def createpage():
+    return None
