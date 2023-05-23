@@ -1,0 +1,8 @@
+markdown-it-py==2.2.0
+MarkupSafe==2.1.2
+html5lib==1.1
+Pillow==9.5.0
+streamlit==1.21.0
+streamlit-card==0.0.4
+streamlit-lottie==0.0.3
+streamlit-option-menu==0.3.2
