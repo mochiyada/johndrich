@@ -883,7 +883,7 @@ if selected=="OJT":
                 st.write("###")
                 st.markdown("""
                                 <div class="card">
-                      <img src="https://scontent.fmnl9-1.fna.fbcdn.net/v/t39.30808-6/333692994_159877390237948_3278638485997279866_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_eui2=AeF0Eb6O5ZAyMtpnG0ea5QcEeHj74UcZ8vZ4ePvhRxny9jVdnj-6cm81rbJ-qECe27GbI6_GgLx5x0QrtHxJDM97&_nc_ohc=K-7_SeZaLx4AX_XsWpW&_nc_ht=scontent.fmnl9-1.fna&oh=00_AfDY82JqbmGbm-4PevPIcmXpGUI2oz_1Es-hwOPd_lfPHQ&oe=6472323D" alt="picture" style="width:100%">
+                      <img src="https://scontent.fmnl9-4.fna.fbcdn.net/v/t1.15752-9/348364989_6434521813237710_3566802568854561342_n.png?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGYGaIGTzv1nwexO5RJh3uqJcDozY85WZElwOjNjzlZkRGa6zUQBiZ-ycx-Nd_ppiH0VjH9WJnN_W9cYnrx9pt_&_nc_ohc=Maa340FN_LwAX-Gz5YL&_nc_ht=scontent.fmnl9-4.fna&oh=03_AdT1dLZ4rtQ6UWqbX0yvGuPfARxrkxtMKta4xzRO6H8Lyw&oe=6494592F" alt="picture" style="width:100%">
                       <div class="container">
                         <h4><b> Rhealyn Narsico </b></h4>
                     <p> JohnDrich Login System</p>
