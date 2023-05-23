@@ -493,7 +493,7 @@ if selected=="The Team":
     <div class="row">
       <div class="column">
         <div class="card">
-          <img src="https://scontent.fmnl33-1.fna.fbcdn.net/v/t39.30808-6/320591777_650210293464318_3620581362099258986_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFI5WDUouAV2TDzZMAjtEmCcyIcUaL-qQVzIhxRov6pBRRaLHIAnKqaVsZxY7YcPerwJY59UjqWUaKk2bYOE0_k&_nc_ohc=gRJ4DMjivncAX-AacaY&_nc_oc=AQmX--5uJKaukbO_RunX18V-yBMtOKQFop88RBXBVEIZI7fDRvCNhSq0ceDYaGf6UYY&_nc_ht=scontent.fmnl33-1.fna&oh=00_AfBDDtjQU_Q1EPq5kWCwCrKPkKUGZWBxuybj2ThmI3aRkw&oe=6462376E" alt="Jane" style="width:95%">
+          <img src="https://scontent.fmnl9-3.fna.fbcdn.net/v/t39.30808-6/320591777_650210293464318_3620581362099258986_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeF5_lm3a3_7iiPuE9sbUe_NcyIcUaL-qQVzIhxRov6pBfxxyqzflGD0K_Ab0M5wobQhJkeD_Maimvn7vuWla6-f&_nc_ohc=HJ8CJZhf41YAX_t89Mi&_nc_oc=AQkChszScsNA_KmWp-jqFQlruyO2K86g56mFZ4QgQC8BKCHRMCWTsX--p1G4ezTQDqmiJ9n3rQN_-GdtlrmnpEW4&_nc_ht=scontent.fmnl9-3.fna&oh=00_AfA94RmHGu50fa5YItOafiYll2fjnXqLW2QsMGkosSRA7w&oe=6472096E" alt="Jane" style="width:95%">
           <div class="container">
             <h4 class="nameCarl">Jacob "2 Hours Biyahe" David</h4>
             <p class="title">Leader/Architect</p>
@@ -546,7 +546,7 @@ if selected=="The Team":
 
   <div class="column">
     <div class="card">
-      <img src="https://scontent.fmnl33-2.fna.fbcdn.net/v/t39.30808-6/251136930_910674186226832_6441802131631541053_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFgrzL8gwWJEl7mnqE8ARHwI9jaMDRjtTEj2NowNGO1MXOqrJ3dC97XVlBroVEbRxiEL7i3AePbPfhOIx3DBN7U&_nc_ohc=5wGWxfoKmlQAX9oAork&_nc_oc=AQmBnV1YQu54exYozn1iMwUGQK2OLVgR_oXN-pprxz05FU_KN6POJiDBh0q5Nzhkb0w&_nc_ht=scontent.fmnl33-2.fna&oh=00_AfCLAnAzK_62AxMxJ6HIVNXduGsrkP3UnIuEwrE_N8Y1wg&oe=64609B81" alt="John" style="width:100%">
+      <img src="https://scontent.fmnl9-2.fna.fbcdn.net/v/t39.30808-6/251136930_910674186226832_6441802131631541053_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFvaxVV0I_wANis5W-mfmZZI9jaMDRjtTEj2NowNGO1Mae77MhPlEInUk3ucEoY9o_bPyROGclgJU1kuZGUOTEr&_nc_ohc=ufOfMm9DCUcAX9YSOHU&_nc_oc=AQnVscO3fzQjBNj8vyq-6kHxdWTyULN8P6j3lsYZ99DTB1gwSEdgqn6U2g34sneGKyZys9BZYx_8njLUXJTzYRA1&_nc_ht=scontent.fmnl9-2.fna&oh=00_AfBhDyG8J-XBAIQ3WeK7W4DY8-5-Dz-pduaqMgBZ9jKqkw&oe=647267C1" alt="John" style="width:100%">
       <div class="container">
         <h4>Franchesca "Lumipat ng IT" Gubat </h4>
         <p class="title">Architect</p>
@@ -588,7 +588,7 @@ if selected=="The Team":
 
       <div class="column">
         <div class="card">
-          <img src="https://scontent.fmnl33-1.fna.fbcdn.net/v/t39.30808-6/269893599_1092177584888664_579414072975544248_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEVvi_JlNSjMK8ml0sfxd0-0BrM4gVNZn3QGsziBU1mfSeRL6J4qFtP79Lpnezgaq1TmJ2ufUPWo6Fv52-DA5fJ&_nc_ohc=uCtKhNmsYzIAX_zc2-m&_nc_ht=scontent.fmnl33-1.fna&oh=00_AfDGkCujMI3ICq-xTUHxh42wtNOZCD-y-1tY6-RLefUcZA&oe=6461FB48" alt="Mike" style="width:100%">
+          <img src="https://scontent.fmnl9-3.fna.fbcdn.net/v/t39.30808-6/269893599_1092177584888664_579414072975544248_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGjT7omag0VS-nCoXTHeBmB0BrM4gVNZn3QGsziBU1mfdyG5SaSF47MMTiaiY9dfzkSeeXvmEji5sb3Zacc_4n5&_nc_ohc=8y26Ns6Trw4AX8AEzmX&_nc_ht=scontent.fmnl9-3.fna&oh=00_AfD3S5AHjDjK06Cm_H38udV51P3wjUbRzb_V0kvQTea4yw&oe=6471CD48" alt="Mike" style="width:100%">
           <div class="container">
             <h4 class="nameDulay">Adrian "May Natapakan" Dulay</h4>
             <p class="title">Architect/ IT</p>
@@ -612,7 +612,7 @@ if selected=="The Team":
     </div>
      <div class="column">
         <div class="card">
-          <img src="https://scontent.fmnl33-1.fna.fbcdn.net/v/t39.30808-6/333516627_1257188091549435_7697713599624126804_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGuUfq5JTJorC05todDasp2GOMgbRaPzUEY4yBtFo_NQXc2nzx2cgl-G0PSnKpU8gv2bsfx7UL3WCIdyX6LTN8L&_nc_ohc=hV3RCmPig3cAX_Uazz5&_nc_ht=scontent.fmnl33-1.fna&oh=00_AfBQd2E3Qutc91iGObQVDM0tHqOuEoLEHmKId9pli6LTMA&oe=646134F1" alt="John" style="width:100%">
+          <img src="https://scontent.fmnl9-4.fna.fbcdn.net/v/t39.30808-6/333516627_1257188091549435_7697713599624126804_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeH0rzDa5FyVE2u6-t1IF-_-GOMgbRaPzUEY4yBtFo_NQSs-SC8YtIqME7Mgso-8VjFpzTEnSuii0-A8ktnq8fBf&_nc_ohc=3zQb_snRU9gAX-morDx&_nc_ht=scontent.fmnl9-4.fna&oh=00_AfBHULcl6PEukbA3ZUbXy6nI2qvG9aOIm_El2fY6WamjOw&oe=647106F1" alt="John" style="width:100%">
           <div class="container">
             <h4>Zach "Python Lang" Adaya</h4>
             <p class="title">IT</p>
@@ -630,7 +630,7 @@ if selected=="The Team":
         <div class="row">
       <div class="column">
         <div class="card">
-          <img src="https://scontent.fmnl33-1.fna.fbcdn.net/v/t39.30808-6/320591777_650210293464318_3620581362099258986_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFI5WDUouAV2TDzZMAjtEmCcyIcUaL-qQVzIhxRov6pBRRaLHIAnKqaVsZxY7YcPerwJY59UjqWUaKk2bYOE0_k&_nc_ohc=gRJ4DMjivncAX-AacaY&_nc_oc=AQmX--5uJKaukbO_RunX18V-yBMtOKQFop88RBXBVEIZI7fDRvCNhSq0ceDYaGf6UYY&_nc_ht=scontent.fmnl33-1.fna&oh=00_AfBDDtjQU_Q1EPq5kWCwCrKPkKUGZWBxuybj2ThmI3aRkw&oe=6462376E" alt="Jane" style="width:95%">
+          <img src="https://scontent.fmnl9-3.fna.fbcdn.net/v/t39.30808-6/320591777_650210293464318_3620581362099258986_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeF5_lm3a3_7iiPuE9sbUe_NcyIcUaL-qQVzIhxRov6pBfxxyqzflGD0K_Ab0M5wobQhJkeD_Maimvn7vuWla6-f&_nc_ohc=HJ8CJZhf41YAX_t89Mi&_nc_oc=AQkChszScsNA_KmWp-jqFQlruyO2K86g56mFZ4QgQC8BKCHRMCWTsX--p1G4ezTQDqmiJ9n3rQN_-GdtlrmnpEW4&_nc_ht=scontent.fmnl9-3.fna&oh=00_AfA94RmHGu50fa5YItOafiYll2fjnXqLW2QsMGkosSRA7w&oe=6472096E" alt="Jane" style="width:95%">
           <div class="container">
             <h4 class="nameCarl">Jacob "2 Hours Biyahe" David</h4>
             <p class="title">Leader/Architect</p>
@@ -883,7 +883,7 @@ if selected=="OJT":
                 st.write("###")
                 st.markdown("""
                                 <div class="card">
-                      <img src="https://scontent.fmnl25-1.fna.fbcdn.net/v/t1.15752-9/348364989_6434521813237710_3566802568854561342_n.png?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGYGaIGTzv1nwexO5RJh3uqJcDozY85WZElwOjNjzlZkRGa6zUQBiZ-ycx-Nd_ppiH0VjH9WJnN_W9cYnrx9pt_&_nc_ohc=Maa340FN_LwAX8Qflq8&_nc_ht=scontent.fmnl25-1.fna&oh=03_AdSINoYC36Mq0i_0q9-KGee5TJyQSRS4zm8bWh0LWYTn6Q&oe=6493782F" alt="picture" style="width:100%">
+                      <img src="https://scontent.fmnl9-1.fna.fbcdn.net/v/t39.30808-6/333692994_159877390237948_3278638485997279866_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_eui2=AeF0Eb6O5ZAyMtpnG0ea5QcEeHj74UcZ8vZ4ePvhRxny9jVdnj-6cm81rbJ-qECe27GbI6_GgLx5x0QrtHxJDM97&_nc_ohc=K-7_SeZaLx4AX_XsWpW&_nc_ht=scontent.fmnl9-1.fna&oh=00_AfDY82JqbmGbm-4PevPIcmXpGUI2oz_1Es-hwOPd_lfPHQ&oe=6472323D" alt="picture" style="width:100%">
                       <div class="container">
                         <h4><b> Rhealyn Narsico </b></h4>
                     <p> JohnDrich Login System</p>
