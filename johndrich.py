@@ -953,6 +953,16 @@ if selected=="OJT":
                       </div>
                     </div>
                                 """, unsafe_allow_html=True, )
+                                st.write("###")
+                st.markdown("""
+                                <div class="card">
+                      <img src="https://scontent.fmnl33-3.fna.fbcdn.net/v/t1.15752-9/346151601_1449993472523445_7844539721065315777_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeECFI9ELYcNd5DWDt76OuCGb-heaL2QZhJv6F5ovZBmElXY_v35ZDzZRa1YZpFpZ8O6Sx6yRWrGASamIK_hFTQ8&_nc_ohc=nQ2BZmJlhIEAX9brtvR&_nc_ht=scontent.fmnl33-3.fna&oh=03_AdQmiN_rOjHlD_z2EO--TU6qhwFQSjnKN_k3ysp5U70Dyw&oe=6496202E" alt="picture" style="width:100%">
+                      <div class="container">
+                        <h4><b> Kyle Fernandez </b></h4>
+                    <p> JohnDrich Poster</p>
+                      </div>
+                    </div>
+                                """, unsafe_allow_html=True, )
 
             with col2:
                 st.markdown("""
