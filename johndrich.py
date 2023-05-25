@@ -1133,7 +1133,7 @@ if selected == "Content":
     components.iframe("https://drive.google.com/file/d/1-R5CL0FIY5NSzpfaqpY8vi-HokHxCymb/preview", width=float(700), height=float(400))
     st.write("---")
     st.title("System Development")
-    components.iframe("https://www.youtube.com/embed/WTsokIo1gQ8", width=float(700), height=float(400))
+    components.iframe("https://www.youtube.com/embed/2CPYUAn9haQ", width=float(700), height=float(400))
     st.write("---")
     st.title("IT Training Center")
     components.iframe("https://drive.google.com/file/d/1AW4-KDaJ0DLjSYMAtxHKbPPE04PXV0i-/preview", width=float(700), height=float(400))
