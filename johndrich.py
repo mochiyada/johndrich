@@ -923,7 +923,7 @@ if selected=="OJT":
                 st.write("###")
                 st.markdown("""
                                 <div class="card">
-                      <img src="https://z-p3-scontent.fmnl9-2.fna.fbcdn.net/v/t1.15752-9/346160650_592119563064186_6468617096987365314_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHcDQnw0uR3xbUlKNMK2icV7EIpvYSp9KTsQim9hKn0pOtnUwW6bC_AYMeMt9UYji07XQIcbRsRRxtKFPyogxlb&_nc_ohc=6l6DzKfniKcAX8uweZp&_nc_ht=z-p3-scontent.fmnl9-2.fna&oh=03_AdR8fIdueJbaYs9rv9ia9dJa8-k1Kr58uYKC6mt7YYwb4A&oe=6493D272" alt="picture" style="width:100%">
+                      <img src="https://scontent.fmnl33-3.fna.fbcdn.net/v/t1.15752-9/349330753_500522878867280_6505519772706413242_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHCb-RTdwp0ITf_9h0w0Bo-2FGapq_3DH3YUZqmr_cMfQqVsWVxKX3BXsnknJhoDPEFV_T2kkxeHS9LNKFJvcLW&_nc_ohc=46QDRYdNmHgAX9he0WN&_nc_ht=scontent.fmnl33-3.fna&oh=03_AdRMeUl8IO2v6UKdjlTDA6Dwgd7JEyUKnEo3iVmTX6MyFA&oe=64961F8B" alt="picture" style="width:100%">
                       <div class="container">
                         <h4><b> Carl Mangune </b></h4>
                     <p> JohnDrich Showroom 3D Model</p>
